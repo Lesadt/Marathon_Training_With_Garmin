@@ -40,7 +40,6 @@ Marathon_Training_With_Garmin/
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
----
 
 ## 📬 Sample Output
 
