@@ -32,15 +32,25 @@ Marathon_Training_With_Garmin/
 ├── lambda/
 
 │   ├── GarminUpdate/               # Lambda that fetches Garmin data and updates S3
+
 │   │   └── lambda_function.py
+
 │   ├── EmailSender/                # Lambda that plots data and sends email
+
 │   │   └── lambda_function.py
+
 ├── data/
+
 │   └── weekly_collected_data.csv   # Sample training data
+
 ├── docs/
+
 │   └── progress_graph_example.png  # Screenshot of email graph
+
 ├── requirements.txt
+
 ├── LICENSE
+
 ├── README.md
 
 ## 📬 Sample Output
