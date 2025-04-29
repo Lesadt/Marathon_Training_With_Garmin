@@ -28,7 +28,9 @@ This project automates the collection and visualization of running data from Gar
 
 ## 📁 Folder Structure
 Marathon_Training_With_Garmin/
+
 ├── lambda/
+
 │   ├── GarminUpdate/               # Lambda that fetches Garmin data and updates S3
 │   │   └── lambda_function.py
 │   ├── EmailSender/                # Lambda that plots data and sends email
